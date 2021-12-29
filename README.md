@@ -31,6 +31,8 @@ Jennifer Lucas [Github](https://github.com/jenmlucas), email jenmlucas1@gmail.co
 
 Sandy Sanders [Github](https://github.com/sandy-06), email Sandy-sanders@msn.com.
 
+Original github repo with commits/pr requests from me are located [here](https://github.com/jenmlucas/Baby-Aid)
+
 ## Tests
 N/A
 
