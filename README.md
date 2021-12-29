@@ -17,7 +17,7 @@ Clone the repo, then do "npm install". Create a new .env file with your own info
 ## Usage
 This is what it will look like on your device.
 
-[Baby Aid Production Link](https://calm-fortress-46248.herokuapp.com/)
+[Baby Aid Production Link](https://stark-brook-30406.herokuapp.com/)
 
 ![Baby Aid](./public/images/screenshot.png)
 
