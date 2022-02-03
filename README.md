@@ -8,7 +8,6 @@ Baby Aid was created to allow parents with children newly born to 18, be able to
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Test](#test)
 * [Questions](#questions)
 
 ## Installation
@@ -33,8 +32,6 @@ Sandy Sanders [Github](https://github.com/sandy-06), email Sandy-sanders@msn.com
 
 Original github repo with commits/pr requests from me are located [here](https://github.com/jenmlucas/Baby-Aid)
 
-## Tests
-N/A
 
 ## Questions
 Please checkout our Github's above for other projects we have worked on. If you have any questions or concerns, feel free to email one of us above. Thank you.
